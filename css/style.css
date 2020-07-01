@@ -59,6 +59,10 @@ h1
     cursor: pointer;
 }
 
+.name-highlight
+{
+    color: #EC4F8F;
+}
 #biography .bio-container
 {
     background-image: url("../img/biography-bg.png");
